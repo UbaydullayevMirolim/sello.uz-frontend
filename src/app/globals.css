@@ -1,0 +1,12 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+
+@import "react-toastify/dist/ReactToastify.css";
+@import url(../styles/modal.css);
+@import url(../styles/catalogModal.css);
+@import url(../styles/carousel.css);
+/* @import url(../styles/profileModal.css); */
+
+
